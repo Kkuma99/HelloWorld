@@ -116,4 +116,4 @@ else:
             timesleep(1/10)
 
 timesleep(10)
-GPIO.cleanup()
+GPIO.clean.up()
